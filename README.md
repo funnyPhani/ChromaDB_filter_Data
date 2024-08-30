@@ -1,7 +1,7 @@
 # ChromaDB_filter_Data
 
 
-```pyhton
+```python
 
 import chromadb
 import ollama
